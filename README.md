@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gregoiremahon&show_icons=true&theme=transparent&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoiremahon&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoiremahon&theme=transparent) 
 - 📫 How to reach me: mailto:greg.mahonfr@gmail.com
 
 <!--
